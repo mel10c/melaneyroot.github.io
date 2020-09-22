@@ -13,12 +13,12 @@
 | decimals | `float` | x.x                          | arithemtic operators, use (`/`) to return float |
 | boolean  | `bool`  | True, False                  | and, or, not                                    |
 | string   | `str`   | 'abc'                        | ==, [x], arithemtic operator for repetition     |
-| set      | `set`   | { } (set() for $\emptyset$ ) | ==, union, intersect, difference                |
+| set      | `set`   | { } (set() for ∅) | ==, union, intersect, difference                |
 | list     | `list`  | [ ]                          | ==, union, intersect, difference                |
 | mapping  | `dict`  | {key: value}                 | ==, union, intersect, difference                |
 
 - Float is an estimation of the result, it can easily cause **rounding errors**
-- The syntax for boolean as to started with capital letter (`True` $\ne$ `true`)
+- The syntax for boolean as to started with capital letter (`True` ≠ `true`)
 - Set and Dictionary is unordered, while List is ordered 
 
 
