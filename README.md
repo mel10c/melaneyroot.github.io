@@ -1,7 +1,6 @@
 # Hello World
 
-### Life at UofT
-- Week 1 of Computer Science at UofT: 
+### Studying at UofT
 
 
 ### CS Topics
