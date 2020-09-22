@@ -1,5 +1,5 @@
 # Getting Started with Programming with Python
-> `Sept. 21st, 2020`
+> Sept. 
 
 - Python is an high-level <u>programming language</u>, its instructions syntaxes are relatively easy for humans to read and understand compared to other programming languages
 - The <u>console</u> is an environment to <u>execute </u> short <u>expressions </u> followed by the prompt (`>>>`)
